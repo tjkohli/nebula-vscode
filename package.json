@@ -1,0 +1,21 @@
+{
+  "name": "nebula",
+  "displayName": "Nebula",
+  "description": "The official Nebula theme — minimal, colorful, and dark. Focus on your code, not your editor.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula-color-theme.json"
+      }
+    ]
+  }
+}
